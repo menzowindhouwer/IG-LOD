@@ -40,13 +40,14 @@ We use the following communication channel:
 
 ### Linked Data Converters
 - CoW (CSV to RDF)
-- Kabara
-- CMDI2RDF (CMDI to RDF)
+- Kabara (sync)
+- CMD2RDF (CMD to RDF)
 - LDWizard (CSV to RDF)
 
 ### Miscellaneous
 - FoLiA Set Definitions (...)
 - Codemeta in LaMachine (...)
+- CLARIN SKOS-based registries (CCR, CLAVAS)
 
 ### Outreach
 - datastories (tool for creating webpages based on sparql queries)
