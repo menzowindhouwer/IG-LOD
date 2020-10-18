@@ -68,6 +68,7 @@ We use the following communication channel:
 - link with NDE termennetwerk
 - distributed search functionality for vocab and ontology resources
 - recommendation on metadata describing (documenting) a dataset within Clariah; ex: title (name), description, ownership, license, provenance, temporal and/or spatial coverage, keywords, etc. Which properties should be made mandatory? Which vocabulary (schema, dc, void, etc.)?
+- dealing with uncertainty
 
 ### Vocabularies
 - See specifically IG-Curation and the [awesome humanities ontologies](https://github.com/CLARIAH/awesome-humanities-ontologies) list.
